@@ -1,0 +1,21 @@
+{
+    "short_name": "Weather",
+    "name": "Weather: Do I need an umbrella?",
+    "icons": [
+      {
+        "src": "/images/Icon_Bird_512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/images/192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": ".",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "theme_color": "#3367D6",
+    "description": "Weather forecast information"
+  }
