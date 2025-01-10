@@ -1,28 +1,47 @@
 {
-    "short_name": "Weather",
-    "name": "Weather: Do I need an umbrella?",
-    "icons": [
-      {
-        "src": "/images/Icon_Bird_512x512.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      },
-      {
-        "src": "/images/192x192.png",
-        "type": "image/png",
-        "sizes": "192x192",
-        "purpose": "maskable"
-      },
-      {
-        "src": "/images/192x192.png",
-        "type": "image/png",
-        "sizes": "192x192",
-        "purpose": "any"
-      }
-    ],
-    "start_url": ".",
-    "background_color": "#3367D6",
+    "name": "Food Ninja",
+    "short_name":"Food Ninja",
+    "description": "A web app for ninja food",
+    "background_color": "#FFE9D2",
     "display": "standalone",
-    "theme_color": "#3367D6",
-    "description": "Weather forecast information"
-  }
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "/img/icons/icon-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/img/icons/icon-152x152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/img/icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icons/icon-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/img/icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/img/icons/icon-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/img/icons/icon-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        }
+    ]
+}
